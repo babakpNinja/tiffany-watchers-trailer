@@ -1,0 +1,12 @@
+<svg width="288px" height="289px" viewBox="0 0 288 289" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>TI-Icon-onTransparent</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TI-Icon-onTransparent" fill-rule="nonzero">
+            <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="288" height="289"></rect>
+            <g id="Group-2" transform="translate(82.700000, 53.000000)" fill="#F32A52">
+                <polygon id="Path" points="0.1 177.2 122.3 177.2 122.3 134.8 0.1 134.8"></polygon>
+                <path d="M122.2,42.4 L122.2,1.42108547e-14 L0,1.42108547e-14 L0,42.4 L38.3,42.4 C38.7,42.4 39.1,42.7 39.1,43.2 L39.1,103.7 C39.1,104.6 39.5,105.4 40.3,105.7 L83.1,130.3 L83.1,43 C83.1,42.6 83.4,42.2 83.9,42.2 L122.2,42.2 L122.2,42.4 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
